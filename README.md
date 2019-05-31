@@ -6,7 +6,7 @@ Application accepts user input to add new train name, start time and frequency o
 
 ## How users can get started with this project ## 
 
-1. **[Open the Train Scheduler](https://chereenielson.github.io/Train-Scheduler/)**.
+1. **[Open the Train Scheduler](https://katieloyola.github.io/trainScheduler/)**.
     - All train data in `Firebase` is pushed to the train schedule table.
 
 2. **Add a train of your own**.
